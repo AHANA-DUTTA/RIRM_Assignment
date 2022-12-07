@@ -1,0 +1,14 @@
+What is reverse-i-search in a Linux terminal?
+Use reverse-i-search to find past commands
+
+How do you list out the hidden directories using Linux command line tool?
+ls -a
+
+How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+Yes, I am quite comfortable with linux based command line as well as GUI environment.
+
+
+Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+In Wordpress website development, we used to start Apache server for development.
+While developing spring backend web applications, we used Apache server.
